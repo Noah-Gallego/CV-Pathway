@@ -28,6 +28,10 @@ The existing project documentation reports a PM2.5/preterm-birth correlation of 
 
 These figures are preserved from the project materials and are not presented as an independently validated causal result.
 
+## Preview
+
+![PM2.5 and preterm-birth correlation chart](https://noah-readme-assets-v3.vercel.app/CV-Pathway/asset__outputs__correlation_scatter.png)
+
 ## Contents
 
 - `final.py` — analysis script
