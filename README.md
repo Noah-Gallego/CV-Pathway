@@ -4,6 +4,10 @@ Research and analysis of air pollution and preterm birth rates across California
 
 [![Python](https://img.shields.io/badge/python-analysis-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas&theme=light" alt="Python, NumPy, and pandas" />
+</p>
+
 ## Research question
 
 The project examines the relationship between county-level PM2.5 exposure and preterm birth outcomes, including a comparison of higher-pollution Central Valley counties with coastal counties.
