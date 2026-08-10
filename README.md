@@ -12,16 +12,6 @@ Research and analysis of air pollution and preterm birth rates across California
 
 The project examines the relationship between county-level PM2.5 exposure and preterm birth outcomes, including a comparison of higher-pollution Central Valley counties with coastal counties.
 
-## Tech stack
-
-Python analysis using NumPy, pandas, SciPy, Matplotlib, and Seaborn.
-
-### Important libraries
-
-- `pandas` and `numpy` for data preparation
-- `scipy` for statistical analysis
-- `matplotlib` and `seaborn` for visualizations
-
 ## Reported findings
 
 The existing project documentation reports a PM2.5/preterm-birth correlation of `r = 0.286` with `p < 0.001`, average PM2.5 values of 12.9 μg/m³ for the high-pollution group and 7.8 μg/m³ for the coastal group, and corresponding preterm-birth rates of 9.14% and 7.98%.
