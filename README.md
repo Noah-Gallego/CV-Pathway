@@ -47,3 +47,16 @@ This is an observational county-level analysis. Correlation does not establish c
 ## Status
 
 The repository contains the analysis script, data, generated charts, and presentation. No live application or public demo is provided.
+
+> [!IMPORTANT]
+> This is an observational county-level analysis. The reported association should not be interpreted as evidence that PM2.5 causes preterm birth.
+
+## Analysis flow
+
+```mermaid
+flowchart LR
+    A[County data CSVs] --> B[final.py]
+    B --> C[Data preparation and grouping]
+    C --> D[Correlation and comparisons]
+    D --> E[Charts and presentation]
+```
